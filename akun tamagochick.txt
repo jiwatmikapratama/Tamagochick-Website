@@ -1,0 +1,31 @@
+AKUN ADMIN :
+
+Username : admin
+
+Password : 123
+
+
+
+Akun USER :
+
+Username :
+ pratama
+Password :
+123
+
+Username :
+angga
+Password :
+angga
+
+Username :
+widana
+Password :
+123
+
+Username :
+santhi
+Password :
+123
+
+Link Website >>>>> https://tamagochick.000webhostapp.com/login.php <<<<<<
